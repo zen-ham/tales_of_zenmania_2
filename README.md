@@ -1,6 +1,6 @@
 I did not name this game! The name is a coincidence.
 
-The game has 112 choices and 44 different endings, at any time you can also submit '?' and any recent keywords will be explained.
+This is a simple little text adventure game. The game has 112 choices and 44 different endings, at any time you can also submit '?' and any recent keywords will be explained.
 the side goal of this game is to be somewhat educational, so use ? as often as you want and you'll probably learn something!
 
 I created this because I played the namesake of this game that was made by a friend a few years ago and released recently, [tales of zenmania](https://github.com/Ubuntufanboy/tales-of-zenmania) 1. This is a far expanded version.
