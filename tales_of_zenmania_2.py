@@ -38,6 +38,7 @@ def high_precision_sleep(duration):  # I ripped this function straight from my p
             pass
 
 def resource_path(relative_path):
+    return relative_path
     if hasattr(sys, '_MEIPASS'):
         return os.path.join(sys._MEIPASS, relative_path)
     return os.path.join(os.path.dirname(__file__), relative_path)
