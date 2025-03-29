@@ -1,3 +1,5 @@
+Open Source Week day 3 release!
+
 I did not name this game! The name is a coincidence.
 
 This is a simple little text adventure game. The game has 112 choices and 44 different endings, at any time you can also submit '?' and any recent keywords will be explained.
