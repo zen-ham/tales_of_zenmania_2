@@ -1,4 +1,4 @@
-Open Source Week day 3 release!
+[![ ](https://img.shields.io/badge/Open_Source_Week-white?logo=opensourceinitiative)](https://github.com/zen-ham/zen-ham/tree/main#open-source-week) day 3 release!
 
 I did not name this game! The name is a coincidence.
 
